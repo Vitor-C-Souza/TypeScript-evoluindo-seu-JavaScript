@@ -1,4 +1,4 @@
-import { view } from "./view";
+import { view } from "./view.js";
 export class MensagemView extends view {
     template(model) {
         return `
