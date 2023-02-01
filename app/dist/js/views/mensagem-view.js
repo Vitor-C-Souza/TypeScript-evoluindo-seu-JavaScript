@@ -8,3 +8,4 @@ export class MensagemView extends view {
         `;
     }
 }
+//# sourceMappingURL=mensagem-view.js.map
